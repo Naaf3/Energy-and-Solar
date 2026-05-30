@@ -22,6 +22,6 @@ The starter battery in modern vans is often not fully charged by the alternator.
 
 Our solution for that was to install the Standby Charger Pro from Votronic <a href="https://www.votronic.de/standby-charger/">(for more infos visit the Votronic homepage)</a>
 
-The standby charger tops up the starter battery to a certain level and does not drain the leisure battery under a certain level. Since we installed the standby charger the start-stop-function worked again. It didn't work for the last couple of years, because the starter batterie's SoC was too low.
+The standby charger tops up the starter battery to a certain level and does not drain the leisure battery under a certain level. Since we installed the standby charger the start-stop-function of the engine is working again. It didn't work for the last couple of years, because the starter batterie's SoC was too low.
 
 ## Solar System
