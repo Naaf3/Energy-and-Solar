@@ -39,7 +39,7 @@ The panels are not glued or otherwise directly mounted to the roof. Instead we u
 </br>
 <img width="400" alt="Solar Panels" src="https://github.com/Naaf3/Energy-and-Solar/blob/main/pictures/Solarpanels.jpg"/>
 
-<b>Important note</b>: The Thule SmartClamp system can be mounted with or without an awning. As far as I know it is only compatible with Thule awnings. In our case, as we have the Dometic skyroof above the drivers cabine, the awning is mounted with some kind of special mount that gives space between the skyroof and the awning. The normal mounting adapter for the SmartClamp system and our Thule awning didn't work, so I had them custom made and they fit perfectly:
+❗ <b>Important note</b>: The Thule SmartClamp system can be mounted with or without an awning. As far as I know it is only compatible with Thule awnings. In our case, as we have the Dometic skyroof above the drivers cabine, the awning is mounted with some kind of special mount that gives space between the skyroof and the awning. The normal mounting adapter for the SmartClamp system and our Thule awning didn't work, so I had them custom made and they fit perfectly:
 </br>
 </br>
 <img width="400" alt="custom made mounts" src="https://github.com/Naaf3/Energy-and-Solar/blob/main/pictures/Awningmount.jpg"/>
